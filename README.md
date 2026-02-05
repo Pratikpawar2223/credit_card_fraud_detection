@@ -36,12 +36,12 @@ Open credit_card_fraud_detection.py in VS Code.
 
 Run the script to detect fraudulent transactions and save them to flagged_transactions.csv.
 
-✅ CONCLUSION
+## ✅ CONCLUSION
 
 The XGBoost model successfully identifies suspicious transactions with high accuracy and precision. While recall is slightly lower, the high F1 score ensures a good balance between catching frauds and minimizing false alarms. This system can be used as a real-time fraud detection tool to protect credit card users.
 
 
-🛠 TECHNOLOGIES USED
+## 🛠 TECHNOLOGIES USED
 Python 3.x
 
 XGBoost
