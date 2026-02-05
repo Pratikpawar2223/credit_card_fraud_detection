@@ -3,9 +3,10 @@
 
 Detect fraudulent credit card transactions using machine learning. This project leverages XGBoost for high-performance classification and flags suspicious transactions for further review.
 
-Project Overview
+## 📝 PROJECT OVERVIEW
 
 This project aims to identify potential fraudulent transactions in credit card datasets. Using machine learning, it helps minimize financial loss and ensures transaction security.
+## 📊 RESULTS
 | Metric                   | Value   |
 | ------------------------ | ------- |
 | **Best Model**           | XGBoost |
@@ -18,13 +19,13 @@ This project aims to identify potential fraudulent transactions in credit card d
 | **Flagged Transactions** | 72      |
 The model achieves high precision and a balanced F1 score, making it reliable for detecting fraudulent transactions.
 
-Files
+## 📂 FILES
 
 flagged_transactions.csv – Contains all transactions flagged as potentially fraudulent.
 
 credit_card_fraud_detection.py – Python script with full code and analysis (designed for VS Code).
 
-How to Run
+## ▶️ HOW TO RUN
 
 Clone the repository:
 
@@ -35,12 +36,12 @@ Open credit_card_fraud_detection.py in VS Code.
 
 Run the script to detect fraudulent transactions and save them to flagged_transactions.csv.
 
-Conclusion
+✅ CONCLUSION
 
 The XGBoost model successfully identifies suspicious transactions with high accuracy and precision. While recall is slightly lower, the high F1 score ensures a good balance between catching frauds and minimizing false alarms. This system can be used as a real-time fraud detection tool to protect credit card users.
 
-Technologies Used
 
+🛠 TECHNOLOGIES USED
 Python 3.x
 
 XGBoost
