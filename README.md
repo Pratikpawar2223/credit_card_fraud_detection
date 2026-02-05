@@ -1,4 +1,5 @@
-Credit Card Fraud Detection 💳⚡
+# **CREDIT CARD FRAUD DETECTION 💳⚡**
+
 
 Detect fraudulent credit card transactions using machine learning. This project leverages XGBoost for high-performance classification and flags suspicious transactions for further review.
 
